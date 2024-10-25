@@ -12,3 +12,4 @@ Design Pattern: MVVM
 Dependency Injection: Dagger
 
 Asynchronous Programming: Co-routines
+
